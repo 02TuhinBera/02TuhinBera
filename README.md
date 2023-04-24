@@ -12,7 +12,7 @@
 
 - 💬 You can ask me about **C language and python**
 
-- ⚡ Fun fact ** --> Actually, I spent my rest time watching Anime..💕**
+- ⚡ Fun fact : --> Actually, I spent my rest time watching Anime..💕...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
